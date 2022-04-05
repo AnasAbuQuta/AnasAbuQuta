@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnasAbuQuta
 - 👀 I’m interested in UCAS
-- 🌱 I’m currently learning programing
+- 🌱 Frontend Web designer.
 - 📫 How to reach me Email: anasabuquta825@gmail.com
 
 <!---
