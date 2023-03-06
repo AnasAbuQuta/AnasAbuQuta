@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnasAbuQuta
+- 👋 Hi, I’m Anas AbuQuta
 - 👀 I’m interested in UCAS
 - 🌱 Full stack web developer.
 - 📫 How to reach me Email: anasabuquta825@gmail.com
