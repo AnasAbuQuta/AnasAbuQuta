@@ -1,8 +1,8 @@
 <h1 align="center"><a href="https://github.com/AnasAbuQuta"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1050&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Anas+Abu+Quta"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1050&center=true&vCenter=true&multiline=true&repeat=false&color=6772F7&width=435&lines=Anas+Abu+Quta"
             alt="Typing SVG" /></a></h1>
 <h3 align="center"><a href="https://github.com/AnasAbuQuta"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1500&center=true&vCenter=true&width=435&lines=Full+-+Stack+Web+Developer;Always+Learning+New+Things"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1500&color=6772F7&center=true&vCenter=true&width=435&lines=Full+-+Stack+Web+Developer;Always+Learning+New+Things"
             alt="Typing SVG" /></a></h3>
 
 - 👋 Hi, I’m Anas AbuQuta
@@ -20,7 +20,7 @@ Laravel, Woordpress, Vue.js, MySQL.
 <!-- https://github.com/AnasAbuQuta -->
 
 <h3 align="left"><a href="https://github.com/AnasAbuQuta"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Connect+with+me%3A"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6772F7&repeat=false&width=435&lines=Connect+with+me%3A"
             alt="Typing SVG" /></a></h3>
 <p align="left">
     <a href="https://twitter.com/anasabuquta" target="blank"><img align="center"
@@ -37,7 +37,7 @@ Laravel, Woordpress, Vue.js, MySQL.
             alt="anasabuquta3" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><a href="https://github.com/AnasAbuQuta"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a></h3>
+<h3 align="left"><a href="https://github.com/AnasAbuQuta"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6772F7&repeat=false&width=435&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a></h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
             alt="csharp" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
