@@ -1,27 +1,26 @@
-<h1 align="center"><a href="https://github.com/AnasAbuQuta"><img
+<h1 align="center">
+    <a href="https://github.com/AnasAbuQuta"><img
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1050&color=6772F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Anas+Abu+Quta"
-            alt="Typing SVG" /></a></h1>
-<h3 align="center"><a href="https://github.com/AnasAbuQuta"><img
+            alt="Typing SVG" /></a>
+</h1>
+<h3 align="center">
+    <a href="https://github.com/AnasAbuQuta"><img
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1500&color=6772F7&center=true&vCenter=true&width=435&lines=Full+-+Stack+Web+Developer;Always+Learning+New+Things"
-            alt="Typing SVG" /></a></h3>
+            alt="Typing SVG" /></a>
+</h3>
 
-- 👋 Hi, I’m Anas AbuQuta
-
-- 👀 I Studed in UCAS
-
-- 🌱 Full stack web developer.
-
-- 📫 How to reach me Email: anasabuquta825@gmail.com
-
-- 👨‍💻 I am able to write codes extremely good in various programming languages: HTML, CSS, JavaScript, PHP, Bootstrap,
-Laravel, Woordpress, Vue.js, MySQL.
-
+- 👋 Hi, I’m Anas AbuQuta - 👀 I Studed in UCAS - 🌱 Full stack web developer. -
+📫 How to reach me Email: anasabuquta825@gmail.com - 👨‍💻 I am able to write codes
+extremely good in various programming languages: HTML, CSS, JavaScript, PHP,
+Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
 
 <!-- https://github.com/AnasAbuQuta -->
 
-<h3 align="left"><a href="https://github.com/AnasAbuQuta"><img
+<h3 align="left">
+    <a href="https://github.com/AnasAbuQuta"><img
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6772F7&repeat=false&width=435&lines=Connect+with+me%3A"
-            alt="Typing SVG" /></a></h3>
+            alt="Typing SVG" /></a>
+</h3>
 <p align="left">
     <a href="https://twitter.com/anasabuquta" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -37,10 +36,67 @@ Laravel, Woordpress, Vue.js, MySQL.
             alt="anasabuquta3" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><a href="https://github.com/AnasAbuQuta"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=6772F7&width=435&lines=Languages+and+Tools%3A"
-            alt="Typing SVG" /></a></h3>
-<p align="left">
+<h3 align="left">
+    <a href="https://github.com/AnasAbuQuta"><img
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=6772F7&width=435&lines=Languages%3A"
+            alt="Typing SVG" /></a>
+</h3>
+
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,js,cs,html,css" />
+    </a>
+</p>
+
+<h3 align="left">
+    <a href="https://github.com/AnasAbuQuta"><img
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=6772F7&width=435&lines=Frontend%3A"
+            alt="Typing SVG" /></a>
+</h3>
+
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,wordpress,jquery" />
+    </a>
+</p>
+
+<h3 align="left">
+    <a href="https://github.com/AnasAbuQuta"><img
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=6772F7&width=435&lines=Backend%3A"
+            alt="Typing SVG" /></a>
+</h3>
+
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,wordpress,laravel" />
+    </a>
+</p>
+
+<h3 align="left">
+    <a href="https://github.com/AnasAbuQuta"><img
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=6772F7&width=435&lines=Database%3A"
+            alt="Typing SVG" /></a>
+</h3>
+
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql" />
+    </a>
+</p>
+
+<h3 align="left">
+    <a href="https://github.com/AnasAbuQuta"><img
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=6772F7&width=435&lines=Tools%3A"
+            alt="Typing SVG" /></a>
+</h3>
+
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,xd,git,github" />
+    </a>
+</p>
+
+<!-- <p align="left">
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
             alt="laravel" width="40" height="40" /> </a><a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -69,4 +125,4 @@ Laravel, Woordpress, Vue.js, MySQL.
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
             height="40" /> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-</p>
+</p> -->
