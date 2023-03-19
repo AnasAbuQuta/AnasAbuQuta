@@ -37,7 +37,7 @@ Laravel, Woordpress, Vue.js, MySQL.
             alt="anasabuquta3" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><a href="https://github.com/AnasAbuQuta"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6772F7&width=435&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a></h3>
+<h3 align="left"><a href="https://github.com/AnasAbuQuta"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=6772F7&width=435&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a></h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
             alt="csharp" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
