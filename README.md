@@ -70,19 +70,7 @@ Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
 
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,wordpress,laravel" />
-    </a>
-</p>
-
-<h3 align="left">
-    <a href="https://github.com/AnasAbuQuta"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=6772F7&width=435&lines=Database%3A"
-            alt="Typing SVG" /></a>
-</h3>
-
-<p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql" />
+        <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,mysql" />
     </a>
 </p>
 
