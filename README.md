@@ -9,9 +9,11 @@
             alt="Typing SVG" /></a>
 </h3>
 
-- 👋 Hi, I’m Anas AbuQuta - 👀 I Studed in UCAS - 🌱 Full stack web developer. -
-📫 How to reach me Email: anasabuquta825@gmail.com - 👨‍💻 I am able to write codes
-extremely good in various programming languages: HTML, CSS, JavaScript, PHP,
+- 👋 Hi, I’m Anas AbuQuta.
+- 👀 I Studed in UCAS.
+- 🌱 Full stack web developer. 
+- 📫 How to reach me Email: anasabuquta825@gmail.com 
+- 👨‍💻 I am able to write codes extremely good in various programming languages: HTML, CSS, JavaScript, PHP,
 Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
 
 <!-- https://github.com/AnasAbuQuta -->
