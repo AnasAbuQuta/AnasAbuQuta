@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m Anas AbuQuta.
 
-- 👀 I Studed in UCAS.
+- 👀 I Studied in UCAS.
 
 - 🌱 Full stack web developer.
 
