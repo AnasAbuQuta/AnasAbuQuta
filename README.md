@@ -86,7 +86,7 @@ Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
 
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,xd,git,github,postman,gitlab" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,xd,git,github,postman" />
     </a>
 </p>
 
