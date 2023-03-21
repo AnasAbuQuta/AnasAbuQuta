@@ -9,25 +9,7 @@
             alt="Typing SVG" /></a>
 </h3>
 
-- 👋 Hi, I’m Anas AbuQuta.
-
-- 👀 I Studied in UCAS.
-
-- 🌱 Full stack web developer.
-
-- 📫 How to reach me Email: anasabuquta825@gmail.com
-
-- 👨‍💻 I am able to write codes extremely good in various programming languages: HTML, CSS, JavaScript, PHP,
-Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
-
-<!-- https://github.com/AnasAbuQuta -->
-
-<h3 align="left">
-    <a href="https://github.com/AnasAbuQuta"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B7CF7E1&repeat=false&width=435&lines=Connect+with+me%3A"
-            alt="Typing SVG" /></a>
-</h3>
-<p align="left">
+<p align="center">
     <a href="https://twitter.com/anasabuquta" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="anasabuquta" height="30" width="40" /></a>
@@ -41,6 +23,19 @@ Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="anasabuquta3" height="30" width="40" /></a>
 </p>
+
+- 👋 Hi, I’m Anas AbuQuta.
+
+- 👀 I Studied in UCAS.
+
+- 🌱 Full stack web developer.
+
+- 📫 How to reach me Email: anasabuquta825@gmail.com
+
+- 👨‍💻 I am able to write codes extremely good in various programming languages: HTML, CSS, JavaScript, PHP,
+Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
+
+<!-- https://github.com/AnasAbuQuta -->
 
 <h3 align="left">
     <a href="https://github.com/AnasAbuQuta"><img
