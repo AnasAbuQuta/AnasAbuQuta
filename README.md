@@ -24,6 +24,8 @@
             alt="anasabuquta3" height="30" width="40" /></a>
 </p>
 
+<hr />
+
 - 👋 Hi, I’m Anas AbuQuta.
 
 - 👀 I Studied in UCAS.
