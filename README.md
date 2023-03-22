@@ -41,7 +41,7 @@ Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
 
 <h3 align="left">
     <a href="https://github.com/AnasAbuQuta"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=7B7CF7E1&width=435&lines=Languages%3A"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=FFFFFF&width=435&lines=Languages%3A"
             alt="Typing SVG" /></a>
 </h3>
 
@@ -53,7 +53,7 @@ Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
 
 <h3 align="left">
     <a href="https://github.com/AnasAbuQuta"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=7B7CF7E1&width=435&lines=Frontend%3A"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=FFFFFF&width=435&lines=Frontend%3A"
             alt="Typing SVG" /></a>
 </h3>
 
@@ -65,7 +65,7 @@ Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
 
 <h3 align="left">
     <a href="https://github.com/AnasAbuQuta"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=7B7CF7E1&width=435&lines=Backend%3A"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=FFFFFF&width=435&lines=Backend%3A"
             alt="Typing SVG" /></a>
 </h3>
 
@@ -77,7 +77,7 @@ Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
 
 <h3 align="left">
     <a href="https://github.com/AnasAbuQuta"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=7B7CF7E1&width=435&lines=Tools%3A"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=FFFFFF&width=435&lines=Tools%3A"
             alt="Typing SVG" /></a>
 </h3>
 
