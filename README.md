@@ -32,7 +32,7 @@
 
 - 🌱 Full stack web developer.
 
-- 📫 How to reach me Email: anasabuquta825@gmail.com
+- 📫 How to reach me -> Email: anasabuquta825@gmail.com
 
 - 👨‍💻 I am able to write codes extremely good in various programming languages: HTML, CSS, JavaScript, PHP,
 Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
