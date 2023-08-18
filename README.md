@@ -89,6 +89,9 @@ Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,xd,git,github,postman" />
     </a>
 </p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <!-- <p align="left">
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
