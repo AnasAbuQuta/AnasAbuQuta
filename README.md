@@ -28,8 +28,6 @@
 
 - 👋 Hi, I’m Anas AbuQuta.
 
-- 👀 I Studied in UCAS.
-
 - 🌱 Full stack web developer.
 
 - 📫 How to reach me -> Email: anasabuquta825@gmail.com
