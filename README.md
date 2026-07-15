@@ -173,34 +173,10 @@ Practical experience with Kobo Toolbox, Excel, Google Sheets, digital registrati
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasAbuQuta&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
+  <img src="https://komarev.com/ghpvc/?username=AnasAbuQuta&label=Profile%20Views&color=7B7CF7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AnasAbuQuta?label=Followers&style=for-the-badge&color=7B7CF7" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/AnasAbuQuta?label=Stars&style=for-the-badge&color=7B7CF7" alt="GitHub Stars" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnasAbuQuta&theme=tokyonight"
-    alt="Repos Per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnasAbuQuta&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnasAbuQuta&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnasAbuQuta&theme=tokyonight&utcOffset=3"
-    alt="Productive Time"
-  />
-</p>
-
 ---
 
 ## 🌱 Currently Learning
